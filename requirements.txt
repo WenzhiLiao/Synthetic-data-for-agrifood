@@ -1,0 +1,8 @@
+# Core numerical / scientific packages
+numpy
+
+# YOLO training and inference
+ultralytics
+
+# Optional but commonly useful for notebook/data inspection
+pandas
